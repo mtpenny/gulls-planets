@@ -41,7 +41,7 @@ import time
 
 # ---------------- Simulation parameter bounds (log10 space where noted) ----------------
 mmin = math.log10(0.1)      # log10 Earth masses lower bound
-mmax = math.log10(10000)    # log10 Earth masses upper bound
+mmax = math.log10(100)      # log10 Earth masses upper bound
 amin = math.log10(0.3)      # log10 au lower bound
 amax = math.log10(30)       # log10 au upper bound
 
